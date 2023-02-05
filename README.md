@@ -15,7 +15,7 @@
 
 ## 🛠️ <I>How?</I> <- 기술 스택 <br>
 <details>
-  <summary>🤝 Communication</summary>
+  <summary>🤝  Communication</summary>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
@@ -23,7 +23,7 @@
 </details>
 
 <details>
-  <summary>🖥️ Front End</summary>
+  <summary>🖥️  Front End</summary>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Mac-FFFFFF?style=for-the-badge&logo=apple&logoColor=black">
@@ -40,7 +40,11 @@
 </details>
 
 <details>
-  <summary>💾 Back End</summary>
+  <summary>💾  Back End</summary>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-7F52FF?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Mac-FFFFFF?style=for-the-badge&logo=apple&logoColor=black">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </details><br>
 
 ## 👩‍👩‍👦 <I>Who?</I>
