@@ -26,7 +26,7 @@
 <summary>🖥️ Front End</summary>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Mac-FFFFFFF?style=for-the-badge&logo=apple&logoColor=black">
+<img src="https://img.shields.io/badge/Mac-FFFFFF?style=for-the-badge&logo=apple&logoColor=black">
   <img src="https://img.shields.io/badge/Windows-7F52FF?style=for-the-badge&logo=windows&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/MVVM-0F9D58?style=for-the-badge&logo=&logoColor=white">
