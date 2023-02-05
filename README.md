@@ -39,14 +39,11 @@
   <img src="https://img.shields.io/badge/Mania DB-FF3366?style=for-the-badge&logo=music&logoColor=white">
 </details>
 
-
-
 <details>
-<summary>💾 Back End</summary>
-</details>
-<br>
+  <summary>💾 Back End</summary>
+</details><br>
 
-## 👩‍👩‍👦 <I>Members</I>
+## 👩‍👩‍👦 <I>Who?</I>
 * [민세림](https://github.com/anonymousRecords) (Android, 팀 리더)
 * [조진수](https://github.com/jinsuCH0/) (Android)
 * [박희원](https://github.com/hw130) (Back End)
