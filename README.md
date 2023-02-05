@@ -11,6 +11,8 @@
 
 ## 🎯 <I>What?</I> <- 화면 및 구현 기능<br>
 
+<br>
+
 ## 🛠️ <I>How?</I> <- 기술 스택 <br>
 <details>
 <summary>🤝 Communication</summary>
