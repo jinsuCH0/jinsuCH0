@@ -1,14 +1,20 @@
-# 🎧 지뭐듣(지금 뭐 듣지?)
+## 👋 Hello, Waldo!
 
-> "지뭐듣'은 위치 기반 사용자 간 음악 추천 어플입니다. <br><br>
-> 짧은 소개를 진행하겠습니다! 지뭐듣은 이런 어플이라고 어필 하겠습니다.<br>
-> 왜인지 모르겠어요. 언제부터 지뭐듣에 빠지게 되었는지를...
-> 
+## Tech Stacks
+
+## Projects
 
 
-## 🤔 Why?
 
-## 구현 기능
-
-## 기술 스택
-
+<!--
+**jinsuCH0/jinsuCH0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
