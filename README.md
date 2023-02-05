@@ -42,9 +42,11 @@
 <details>
   <summary>💾  Back End</summary>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Java-7F52FF?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Mac-FFFFFF?style=for-the-badge&logo=apple&logoColor=black">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <br>
 </details><br>
 
 ## 👩‍👩‍👦 <I>Who?</I>
