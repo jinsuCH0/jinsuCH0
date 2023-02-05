@@ -26,6 +26,7 @@ Open Api -
 <details>
 <summary>💾 Back End</summary>
 </details>
+<br>
 
 ## 👩‍👩‍👦 <I>Members</I>
 * [민세림](https://github.com/anonymousRecords) (Android, 팀 리더)
