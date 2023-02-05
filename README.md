@@ -43,7 +43,7 @@
   <summary>💾  Back End</summary>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=oracle&logoColor=#FF160B">
+  <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=oracle&logoColor=red">
   <img src="https://img.shields.io/badge/Mac-FFFFFF?style=for-the-badge&logo=apple&logoColor=black">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <br>
