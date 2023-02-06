@@ -6,7 +6,6 @@
 > <I>'지뭐듣'</I> 은 유저끼리 단순히 음악만을 추천하는 것을 넘어,  
 > 위치와 음악을 "감정"으로, 유저와 유저를 "공감"으로 연결하기 위해 만들어졌습니다.
 
-
 <br>
 
 ## 🏆 <I>What?</I> :: 화면 및 구현 기능<br>
@@ -16,6 +15,12 @@
 > * 추천 음악 별 댓글 및 공감하기<br>
 > * 지역 별 인기 차트 제공<br>
 > ### 화면 및 기능 설명
+> <details>
+  <summary>🤝  Communication</summary>
+  </details>
+> <details>
+  <summary>🤝  Communication</summary>
+</details>
 
 <br>
 
