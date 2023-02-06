@@ -1,23 +1,21 @@
 # 🎧 지뭐듣(지금 뭐 듣지?)
-#### "지뭐듣'은 위치 기반 사용자 간 음악 추천 어플입니다. <br><br><br>
+#### '지뭐듣'은 위치 기반 사용자 간 음악 추천 어플입니다. <br><br><br>
 
 ## 🤔 <I>Why?</I> :: 프로젝트 개요
-> 매일 다니는 골목 길을 걸을 때마다 듣는, 퇴근 길에, 여행지에서... 처럼 모두들 장소와 관련된 음악이 한 곡쯤은 있을 것 입니다.<br><br> 
-> <I>'지뭐듣'</I> 은 유저끼리 단순히 음악만을 추천하는 것을 넘어,  
-> 위치와 음악을 "감정"으로, 유저와 유저를 "공감"으로 연결하기 위해 만들어졌습니다.
+> 매일 다니는 골목 길을 걸을 때마다 듣는, 퇴근 길에, 여행지에서... 처럼 모두들 장소와 관련된 음악이 한 곡쯤은 있을 것 입니다.<br><br>
+> <ㅠ><I>'지뭐듣'</I></b> 은 유저끼리 단순히 음악만을 추천하는 것을 넘어,  
+> 위치와 음악을 <b>"감정"</b>으로, 유저와 유저를 <b>"공감"</b>으로 연결하기 위해 만들어졌습니다.
 
 <br>
 
 ## 🏆 <I>What?</I> :: 화면 및 구현 기능<br>
-> ### 주요 기능
+> ### <span style="color:white">주요 기능</span>
 > * 위치를 기반으로 음악 추천<br>
 > * 음악 정보 확인 및 음악 듣기<br>
 > * 추천 음악 별 댓글 및 공감하기<br>
 > * 지역 별 인기 차트 제공<br>
-> ### 화면 및 기능 설명
-> <details>
-  <summary>🤝  Communication</summary>
-  </details>
+> ### <span style="color:white">화면 및 기능 설명</span>
+> <details> ㅁㄴㅇㄹ </details>
 > <details>
   <summary>🤝  Communication</summary>
 </details>
@@ -63,7 +61,7 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
   <img src="https://img.shields.io/badge/MVC-0F9D58?style=for-the-badge&logo=&logoColor=white">
 
-  
+
 </details><br>
 
 ## 👩‍👩‍👦 <I>Who?</I> :: Members
