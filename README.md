@@ -18,9 +18,9 @@
   <img src="https://img.shields.io/badge/Coroutine-0F9D58?style=for-the-badge&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/RxBinding-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Retrofit-3E4348?style=for-the-badge&logo=Square&logoColor=white">
-  <img src="https://img.shields.io/badge/OkHttp-3E4348?style=for-the-badge&logo=Square&logoColor=white">
-  <img src="https://img.shields.io/badge/Glide4-008ED2?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Retrofit2-3E4348?style=for-the-badge&logo=Square&logoColor=white">
+  <img src="https://img.shields.io/badge/OkHttp3-3E4348?style=for-the-badge&logo=Square&logoColor=white">
+  <img src="https://img.shields.io/badge/Glide4-008ED2?style=for-the-badge&logo=Glide&logoColor=white">
 </p>
 
 <br>
@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
